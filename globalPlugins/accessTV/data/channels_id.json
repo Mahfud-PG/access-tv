@@ -1,0 +1,681 @@
+[
+  {
+    "id": "id-aktv",
+    "name": "AKTV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://akativi.siar.us/live/akativi.m3u8"
+  },
+  {
+    "id": "id-al-wafa-tarim",
+    "name": "Al Wafa Tarim",
+    "category": "Religi",
+    "country": "ID",
+    "url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8"
+  },
+  {
+    "id": "id-al-bahjah-tv",
+    "name": "Al-Bahjah TV",
+    "category": "Religi",
+    "country": "ID",
+    "url": "http://202.150.161.117:8000/play/AlBahjahTV"
+  },
+  {
+    "id": "id-angel-tv-indonesia",
+    "name": "Angel TV Indonesia",
+    "category": "Religi",
+    "country": "ID",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8"
+  },
+  {
+    "id": "id-btv",
+    "name": "BTV",
+    "category": "Berita & Informasi",
+    "country": "ID",
+    "url": "https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8"
+  },
+  {
+    "id": "id-balikpapan-tv",
+    "name": "Balikpapan TV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8"
+  },
+  {
+    "id": "id-bandung-tv",
+    "name": "Bandung TV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8"
+  },
+  {
+    "id": "id-banjar-tv",
+    "name": "Banjar TV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://banjartv.siar.us/banjartv/live/playlist.m3u8"
+  },
+  {
+    "id": "id-cnbc-indonesia",
+    "name": "CNBC Indonesia",
+    "category": "Berita & Informasi",
+    "country": "ID",
+    "url": "https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8"
+  },
+  {
+    "id": "id-cnn-indonesia",
+    "name": "CNN Indonesia",
+    "category": "Berita & Informasi",
+    "country": "ID",
+    "url": "https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8"
+  },
+  {
+    "id": "id-caruban-tv",
+    "name": "Caruban TV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://stream.carubantv.id/hls/0/stream.m3u8"
+  },
+  {
+    "id": "id-daai-tv",
+    "name": "DAAI TV",
+    "category": "Nasional / Umum",
+    "country": "ID",
+    "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8"
+  },
+  {
+    "id": "id-dmi-tv",
+    "name": "DMI TV",
+    "category": "Religi",
+    "country": "ID",
+    "url": "https://tvstreamcast.com/tawaftv.m3u8"
+  },
+  {
+    "id": "id-dens-food-channel",
+    "name": "Dens Food Channel",
+    "category": "Nasional / Umum",
+    "country": "ID",
+    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8"
+  },
+  {
+    "id": "id-dhamma-tv",
+    "name": "Dhamma TV",
+    "category": "Religi",
+    "country": "ID",
+    "url": "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8"
+  },
+  {
+    "id": "id-dhoho-tv",
+    "name": "Dhoho TV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8"
+  },
+  {
+    "id": "id-duta-tv",
+    "name": "Duta TV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://dutatv.siar.us/dutatv/live/playlist.m3u8"
+  },
+  {
+    "id": "id-efarina-tv",
+    "name": "Efarina TV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8"
+  },
+  {
+    "id": "id-ficom-channel",
+    "name": "Ficom Channel",
+    "category": "Nasional / Umum",
+    "country": "ID",
+    "url": "https://v3.siar.us/ficomchannel/live/playlist.m3u8"
+  },
+  {
+    "id": "id-garuda-tv",
+    "name": "Garuda TV",
+    "category": "Nasional / Umum",
+    "country": "ID",
+    "url": "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8"
+  },
+  {
+    "id": "id-groovia-kanal",
+    "name": "Groovia Kanal",
+    "category": "Anak & Hiburan",
+    "country": "ID",
+    "url": "https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8"
+  },
+  {
+    "id": "id-groovia-kids",
+    "name": "Groovia Kids",
+    "category": "Anak & Hiburan",
+    "country": "ID",
+    "url": "https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8"
+  },
+  {
+    "id": "id-i-am-channel",
+    "name": "I Am Channel",
+    "category": "Nasional / Umum",
+    "country": "ID",
+    "url": "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
+  },
+  {
+    "id": "id-indonesiana-tv",
+    "name": "Indonesiana.TV",
+    "category": "Edukasi & Budaya",
+    "country": "ID",
+    "url": "https://tvstreamcast.com/indonesiana.m3u8"
+  },
+  {
+    "id": "id-jtv",
+    "name": "JTV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8"
+  },
+  {
+    "id": "id-jtv-kediri",
+    "name": "JTV Kediri",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8"
+  },
+  {
+    "id": "id-jtv-madiun",
+    "name": "JTV Madiun",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8"
+  },
+  {
+    "id": "id-jtv-madura",
+    "name": "JTV Madura",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8"
+  },
+  {
+    "id": "id-jtv-malang",
+    "name": "JTV Malang",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8"
+  },
+  {
+    "id": "id-jawa-pos-tv-jakarta",
+    "name": "Jawa Pos TV Jakarta",
+    "category": "Berita & Informasi",
+    "country": "ID",
+    "url": "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8"
+  },
+  {
+    "id": "id-jek-tv",
+    "name": "Jek TV",
+    "category": "Nasional / Umum",
+    "country": "ID",
+    "url": "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8"
+  },
+  {
+    "id": "id-jogja-istimewa-tv",
+    "name": "Jogja Istimewa TV",
+    "category": "Nasional / Umum",
+    "country": "ID",
+    "url": "http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8"
+  },
+  {
+    "id": "id-kawanua-tv",
+    "name": "Kawanua TV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8"
+  },
+  {
+    "id": "id-lingkar-tv",
+    "name": "Lingkar TV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://lingkartv.my.id/hls/lingkartv.m3u8"
+  },
+  {
+    "id": "id-madani-tv",
+    "name": "Madani TV",
+    "category": "Religi",
+    "country": "ID",
+    "url": "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8"
+  },
+  {
+    "id": "id-madu-tv",
+    "name": "Madu TV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://re1.siar.us/madutv/hd720/playlist.m3u8"
+  },
+  {
+    "id": "id-nabawi-tv",
+    "name": "Nabawi TV",
+    "category": "Religi",
+    "country": "ID",
+    "url": "http://202.150.161.117:8000/play/NabawiTV"
+  },
+  {
+    "id": "id-nusantara-tv",
+    "name": "Nusantara TV",
+    "category": "Nasional / Umum",
+    "country": "ID",
+    "url": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"
+  },
+  {
+    "id": "id-pktv",
+    "name": "PKTV",
+    "category": "Nasional / Umum",
+    "country": "ID",
+    "url": "https://streaming.id18.tunnel.my.id/hls/stream.m3u8"
+  },
+  {
+    "id": "id-pontv",
+    "name": "PONTV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8"
+  },
+  {
+    "id": "id-padang-tv",
+    "name": "Padang TV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8"
+  },
+  {
+    "id": "id-rbtv-jogja",
+    "name": "RBTV Jogja",
+    "category": "Berita & Informasi",
+    "country": "ID",
+    "url": "https://official.rbtvjogja.tv/live/mychannel.m3u8"
+  },
+  {
+    "id": "id-rctv",
+    "name": "RCTV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://v10.siar.us/rctv/live/playlist.m3u8"
+  },
+  {
+    "id": "id-rri-net",
+    "name": "RRI Net",
+    "category": "Berita & Informasi",
+    "country": "ID",
+    "url": "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8"
+  },
+  {
+    "id": "id-radar-tasikmalaya-tv",
+    "name": "Radar Tasikmalaya TV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8"
+  },
+  {
+    "id": "id-rinjani-tv",
+    "name": "Rinjani TV",
+    "category": "Nasional / Umum",
+    "country": "ID",
+    "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8"
+  },
+  {
+    "id": "id-rodja-tv",
+    "name": "Rodja TV",
+    "category": "Religi",
+    "country": "ID",
+    "url": "https://rodjatv.com/rodjatv/live.m3u8"
+  },
+  {
+    "id": "id-smtv",
+    "name": "SMTV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://e.siar.us/live/smtv.m3u8"
+  },
+  {
+    "id": "id-stv",
+    "name": "STV",
+    "category": "Nasional / Umum",
+    "country": "ID",
+    "url": "http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8"
+  },
+  {
+    "id": "id-salam-tv",
+    "name": "Salam TV",
+    "category": "Religi",
+    "country": "ID",
+    "url": "https://live.salamtelevisi.com/hls/0/stream.m3u8"
+  },
+  {
+    "id": "id-salira-tv",
+    "name": "Salira TV",
+    "category": "Religi",
+    "country": "ID",
+    "url": "https://live.salira.tv/p/3870/hybrid/play.m3u8"
+  },
+  {
+    "id": "id-sampit-tv",
+    "name": "Sampit TV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
+  },
+  {
+    "id": "id-sangaji-tv",
+    "name": "Sangaji TV",
+    "category": "Nasional / Umum",
+    "country": "ID",
+    "url": "https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8"
+  },
+  {
+    "id": "id-stara-tv",
+    "name": "Stara TV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://stream.staratv.id/hls/0/stream.m3u8"
+  },
+  {
+    "id": "id-stara-tv-bandung",
+    "name": "Stara TV Bandung",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://bandung.staratv.id/hls/0/stream.m3u8"
+  },
+  {
+    "id": "id-stara-tv-bojonegoro",
+    "name": "Stara TV Bojonegoro",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://bojonegoro.staratv.id/hls/stream.m3u8"
+  },
+  {
+    "id": "id-stara-tv-cianjur",
+    "name": "Stara TV Cianjur",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://cianjur.staratv.id/hls/0/stream.m3u8"
+  },
+  {
+    "id": "id-stara-tv-jakarta",
+    "name": "Stara TV Jakarta",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://jakarta.staratv.id/hls/0/stream.m3u8"
+  },
+  {
+    "id": "id-stara-tv-malang",
+    "name": "Stara TV Malang",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://malang.staratv.id/hls/0/stream.m3u8"
+  },
+  {
+    "id": "id-stara-tv-parahyangan",
+    "name": "Stara TV Parahyangan",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://parahyangan.staratv.id/hls/0/stream.m3u8"
+  },
+  {
+    "id": "id-suara-surabaya-visual-radio",
+    "name": "Suara Surabaya Visual Radio",
+    "category": "Nasional / Umum",
+    "country": "ID",
+    "url": "https://ssfm.siar.us/ssfm/live/playlist.m3u8"
+  },
+  {
+    "id": "id-tatv",
+    "name": "TATV",
+    "category": "TV Daerah",
+    "country": "ID",
+    "url": "https://v2.siar.us/tatv/live.sdp/playlist.m3u8"
+  },
+  {
+    "id": "id-tvri-aceh",
+    "name": "TVRI Aceh",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8"
+  },
+  {
+    "id": "id-tvri-bali",
+    "name": "TVRI Bali",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8"
+  },
+  {
+    "id": "id-tvri-bangka-belitung",
+    "name": "TVRI Bangka Belitung",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8"
+  },
+  {
+    "id": "id-tvri-bengkulu",
+    "name": "TVRI Bengkulu",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8"
+  },
+  {
+    "id": "id-tvri-central-java",
+    "name": "TVRI Central Java",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8"
+  },
+  {
+    "id": "id-tvri-central-kalimantan",
+    "name": "TVRI Central Kalimantan",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8"
+  },
+  {
+    "id": "id-tvri-central-sulawesi",
+    "name": "TVRI Central Sulawesi",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8"
+  },
+  {
+    "id": "id-tvri-east-java",
+    "name": "TVRI East Java",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8"
+  },
+  {
+    "id": "id-tvri-east-kalimantan",
+    "name": "TVRI East Kalimantan",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8"
+  },
+  {
+    "id": "id-tvri-east-nusa-tenggara",
+    "name": "TVRI East Nusa Tenggara",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8"
+  },
+  {
+    "id": "id-tvri-gorontalo",
+    "name": "TVRI Gorontalo",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8"
+  },
+  {
+    "id": "id-tvri-hd",
+    "name": "TVRI HD",
+    "category": "Nasional",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8"
+  },
+  {
+    "id": "id-tvri-jakarta",
+    "name": "TVRI Jakarta",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8"
+  },
+  {
+    "id": "id-tvri-jambi",
+    "name": "TVRI Jambi",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8"
+  },
+  {
+    "id": "id-tvri-lampung",
+    "name": "TVRI Lampung",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8"
+  },
+  {
+    "id": "id-tvri-maluku",
+    "name": "TVRI Maluku",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8"
+  },
+  {
+    "id": "id-tvri-north-sulawesi",
+    "name": "TVRI North Sulawesi",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8"
+  },
+  {
+    "id": "id-tvri-north-sumatra",
+    "name": "TVRI North Sumatra",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8"
+  },
+  {
+    "id": "id-tvri-papua",
+    "name": "TVRI Papua",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8"
+  },
+  {
+    "id": "id-tvri-riau",
+    "name": "TVRI Riau",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8"
+  },
+  {
+    "id": "id-tvri-south-kalimantan",
+    "name": "TVRI South Kalimantan",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8"
+  },
+  {
+    "id": "id-tvri-south-sulawesi",
+    "name": "TVRI South Sulawesi",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8"
+  },
+  {
+    "id": "id-tvri-south-sumatra",
+    "name": "TVRI South Sumatra",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8"
+  },
+  {
+    "id": "id-tvri-southeast-sulawesi",
+    "name": "TVRI Southeast Sulawesi",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8"
+  },
+  {
+    "id": "id-tvri-west-java",
+    "name": "TVRI West Java",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8"
+  },
+  {
+    "id": "id-tvri-west-kalimantan",
+    "name": "TVRI West Kalimantan",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8"
+  },
+  {
+    "id": "id-tvri-west-nusa-tenggara",
+    "name": "TVRI West Nusa Tenggara",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8"
+  },
+  {
+    "id": "id-tvri-west-papua",
+    "name": "TVRI West Papua",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8"
+  },
+  {
+    "id": "id-tvri-west-sulawesi",
+    "name": "TVRI West Sulawesi",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8"
+  },
+  {
+    "id": "id-tvri-west-sumatra",
+    "name": "TVRI West Sumatra",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8"
+  },
+  {
+    "id": "id-tvri-world",
+    "name": "TVRI World",
+    "category": "Internasional",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8"
+  },
+  {
+    "id": "id-tvri-yogyakarta",
+    "name": "TVRI Yogyakarta",
+    "category": "TVRI Daerah",
+    "country": "ID",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8"
+  },
+  {
+    "id": "id-the-indonesia-channel",
+    "name": "The Indonesia Channel",
+    "category": "Nasional / Umum",
+    "country": "ID",
+    "url": "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8"
+  },
+  {
+    "id": "id-ugtv",
+    "name": "UGTV",
+    "category": "Edukasi & Budaya",
+    "country": "ID",
+    "url": "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8"
+  },
+  {
+    "id": "id-usm-tv",
+    "name": "USM TV",
+    "category": "Edukasi & Budaya",
+    "country": "ID",
+    "url": "https://play.fsa-stream.my.id/hls/siaran.m3u8"
+  }
+]

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="utf-8">
+    <title>Panduan Pengguna Access TV untuk NVDA</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; padding: 20px; color: #222; }
+        h1, h2, h3 { color: #004488; }
+        kbd { background: #eee; border: 1px solid #ccc; padding: 2px 6px; border-radius: 4px; font-family: monospace; }
+        ul { margin-bottom: 16px; }
+        li { margin-bottom: 6px; }
+    </style>
+</head>
+<body>
+    <h1>Panduan Pengguna Access TV</h1>
+    <p><strong>Versi:</strong> 1.2.0</p>
+    <p><strong>Pengembang:</strong> Mahfud Pg & Tim Studio Hermes</p>
+    
+    <h2>1. Pengenalan</h2>
+    <p><strong>Access TV</strong> adalah addon resmi untuk screen reader NVDA yang dirancang khusus untuk memutar siaran televisi streaming secara langsung (Audio-First) dengan aksesibilitas penuh bagi pengguna tunanetra. Mendukung filter 16 negara (Indonesia, Malaysia, Singapura, Arab Saudi, Palestina, Turki, Inggris, Amerika Serikat, Jerman, Jepang, dll.) serta lebih dari 500 saluran TV aktif.</p>
+
+    <h2>2. Fitur Baru Versi 1.2.0</h2>
+    <ul>
+        <li><strong>Saluran Kustom Pribadi:</strong> Pengguna dapat menambahkan tautan streaming TV (.m3u8) sendiri melalui tombol <em>Tambah Saluran Kustom...</em>. Saluran ini tersimpan permanen di folder profil NVDA dan tidak akan hilang saat addon diperbarui.</li>
+        <li><strong>Sambung Ulang Otomatis (Auto-Reconnect):</strong> Jika koneksi Wi-Fi tersendat atau terputus sementara, Access TV akan otomatis mencoba menghubungkan kembali siaran hingga 3 kali tanpa perlu menekan tombol putar manual.</li>
+    </ul>
+
+    <h2>3. Pintasan Keyboard Global (Shortcut)</h2>
+    <ul>
+        <li><kbd>Ctrl + Windows + A</kbd> : Membuka antarmuka utama Access TV dari aplikasi apa pun.</li>
+        <li><kbd>Ctrl + Windows + Shift + S</kbd> : Menghentikan siaran seketika tanpa membuka dialog.</li>
+        <li><kbd>Ctrl + Windows + Shift + A</kbd> : Mengumumkan nama siaran TV yang sedang diputar beserta volume saat ini.</li>
+    </ul>
+
+    <h2>4. Alur Navigasi Dialog</h2>
+    <ol>
+        <li><strong>Kotak Pencarian:</strong> Ketik kata kunci (misal: "TVRI", "Kompas", "CNN") untuk memfilter saluran secara langsung. Tekan <kbd>Enter</kbd> untuk langsung memutar saluran pertama yang ditemukan.</li>
+        <li><strong>Pilih Negara:</strong> Gunakan Panah Atas / Bawah untuk mengganti negara siaran (Default: Indonesia, termasuk opsi Saluran Kustom Pribadi).</li>
+        <li><strong>Filter Favorit:</strong> Centang untuk hanya menampilkan saluran yang ditandai sebagai favorit.</li>
+        <li><strong>Daftar Saluran:</strong> Jelajahi saluran dengan Panah Atas / Bawah. Tekan <kbd>Enter</kbd> atau <kbd>Spasi</kbd> untuk memutar.</li>
+        <li><strong>Tombol Putar / Stop:</strong> Memulai atau menghentikan siaran.</li>
+        <li><strong>Tombol Tambah/Hapus Favorit:</strong> Menyimpan saluran ke daftar favorit permanen.</li>
+        <li><strong>Tombol Tambah Saluran Kustom:</strong> Membuka dialog untuk menempelkan URL siaran TV sendiri.</li>
+        <li><strong>Tombol Hapus Saluran Kustom:</strong> Menghapus saluran pribadi yang sedang dipilih.</li>
+        <li><strong>Slider Volume:</strong> Gunakan Panah Kiri / Kanan untuk mengatur volume (0% - 100%).</li>
+        <li><strong>Tombol Tutup:</strong> Menutup dialog (<kbd>Escape</kbd>). Siaran akan tetap berbunyi di latar belakang.</li>
+    </ol>
+</body>
+</html>

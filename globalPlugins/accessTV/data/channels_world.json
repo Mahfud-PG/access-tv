@@ -1,0 +1,2900 @@
+[
+  {
+    "id": "my-astro-awani",
+    "name": "Astro Awani",
+    "category": "Berita & Informasi",
+    "country": "MY",
+    "url": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8"
+  },
+  {
+    "id": "my-tv1",
+    "name": "TV1",
+    "category": "Nasional",
+    "country": "MY",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1"
+  },
+  {
+    "id": "my-tv2",
+    "name": "TV2",
+    "category": "Hiburan & Berita",
+    "country": "MY",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"
+  },
+  {
+    "id": "my-tv-okey",
+    "name": "TV Okey",
+    "category": "Budaya & Daerah",
+    "country": "MY",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3"
+  },
+  {
+    "id": "my-berita-rtm",
+    "name": "Berita RTM",
+    "category": "Berita Nasional",
+    "country": "MY",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5"
+  },
+  {
+    "id": "my-parlimen-dewan-rakyat",
+    "name": "Parlimen Dewan Rakyat",
+    "category": "Pemerintahan",
+    "country": "MY",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7"
+  },
+  {
+    "id": "sg-cartoonito-asia",
+    "name": "Cartoonito Asia",
+    "category": "Animation;Kids",
+    "country": "SG",
+    "url": "http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8"
+  },
+  {
+    "id": "sg-channel-5-singapore",
+    "name": "Channel 5 (Singapore)",
+    "category": "General",
+    "country": "SG",
+    "url": "https://cdn.qd.je/163189/ch5"
+  },
+  {
+    "id": "sg-channel-8-singapore",
+    "name": "Channel 8 (Singapore)",
+    "category": "General",
+    "country": "SG",
+    "url": "https://cdn.qd.je/163189/ch8"
+  },
+  {
+    "id": "sg-channel-u",
+    "name": "Channel U",
+    "category": "Entertainment",
+    "country": "SG",
+    "url": "https://cdn.qd.je/163189/chu"
+  },
+  {
+    "id": "sg-cna-singapore",
+    "name": "CNA (Singapore)",
+    "category": "News",
+    "country": "SG",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
+  },
+  {
+    "id": "sg-cna-originals",
+    "name": "CNA Originals",
+    "category": "Documentary",
+    "country": "SG",
+    "url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "sg-mewatch-live-1",
+    "name": "meWATCH LIVE 1",
+    "category": "Entertainment",
+    "country": "SG",
+    "url": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd"
+  },
+  {
+    "id": "sa-abdulmajeed-abdullah",
+    "name": "Abdulmajeed Abdullah",
+    "category": "Music",
+    "country": "SA",
+    "url": "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8"
+  },
+  {
+    "id": "sa-aflam",
+    "name": "Aflam",
+    "category": "Movies",
+    "country": "SA",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8"
+  },
+  {
+    "id": "sa-al-alam-al-yawm",
+    "name": "Al Alam Al Yawm",
+    "category": "News",
+    "country": "SA",
+    "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8"
+  },
+  {
+    "id": "sa-al-arabiya-english",
+    "name": "Al Arabiya English",
+    "category": "News",
+    "country": "SA",
+    "url": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8"
+  },
+  {
+    "id": "sa-al-ekhbariya",
+    "name": "Al Ekhbariya",
+    "category": "News",
+    "country": "SA",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8"
+  },
+  {
+    "id": "sa-al-hadath",
+    "name": "Al Hadath",
+    "category": "News",
+    "country": "SA",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8"
+  },
+  {
+    "id": "sa-al-quran-al-kareem-tv",
+    "name": "Al Quran Al Kareem TV",
+    "category": "Religious",
+    "country": "SA",
+    "url": "http://m.live.net.sa:1935/live/quran/gmswf.m3u8"
+  },
+  {
+    "id": "sa-al-resalah",
+    "name": "Al Resalah",
+    "category": "Religious",
+    "country": "SA",
+    "url": "https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8"
+  },
+  {
+    "id": "sa-al-riyadh-radio",
+    "name": "Al Riyadh Radio",
+    "category": "Undefined",
+    "country": "SA",
+    "url": "https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8"
+  },
+  {
+    "id": "sa-al-saudiya",
+    "name": "Al Saudiya",
+    "category": "General",
+    "country": "SA",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8"
+  },
+  {
+    "id": "sa-al-saudiya-alaan",
+    "name": "Al Saudiya Alaan",
+    "category": "Undefined",
+    "country": "SA",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8"
+  },
+  {
+    "id": "sa-al-sunnah-al-nabawiyah-tv",
+    "name": "Al Sunnah Al Nabawiyah TV",
+    "category": "Religious",
+    "country": "SA",
+    "url": "http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8"
+  },
+  {
+    "id": "sa-alkhuzama-radio",
+    "name": "Alkhuzama Radio",
+    "category": "Undefined",
+    "country": "SA",
+    "url": "https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8"
+  },
+  {
+    "id": "sa-alwesam-tv",
+    "name": "Alwesam TV",
+    "category": "Undefined",
+    "country": "SA",
+    "url": "https://stream.addresses-sat.com/Alwesam/index.m3u8"
+  },
+  {
+    "id": "sa-asharq-discovery",
+    "name": "Asharq Discovery",
+    "category": "Documentary;Education",
+    "country": "SA",
+    "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
+  },
+  {
+    "id": "sa-asharq-documentary",
+    "name": "Asharq Documentary",
+    "category": "Documentary",
+    "country": "SA",
+    "url": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8"
+  },
+  {
+    "id": "sa-asharq-news",
+    "name": "Asharq News",
+    "category": "Business;News",
+    "country": "SA",
+    "url": "https://live-news.asharq.com/asharq.m3u8"
+  },
+  {
+    "id": "sa-asharq-radio",
+    "name": "Asharq Radio",
+    "category": "Business;News",
+    "country": "SA",
+    "url": "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8"
+  },
+  {
+    "id": "sa-atfal-mawaheb-tv",
+    "name": "Atfal & Mawaheb TV",
+    "category": "Kids",
+    "country": "SA",
+    "url": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
+  },
+  {
+    "id": "sa-bab-al-hara",
+    "name": "Bab Al Hara",
+    "category": "Series",
+    "country": "SA",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8"
+  },
+  {
+    "id": "sa-big-time-plus",
+    "name": "Big Time Plus",
+    "category": "Undefined",
+    "country": "SA",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8"
+  },
+  {
+    "id": "sa-dr-pal-tv",
+    "name": "Dr Pal TV",
+    "category": "General",
+    "country": "SA",
+    "url": "https://stream.cisk.tech/drpal/index.m3u8"
+  },
+  {
+    "id": "sa-fairuz",
+    "name": "Fairuz",
+    "category": "Music",
+    "country": "SA",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8"
+  },
+  {
+    "id": "sa-holy-quran-radio",
+    "name": "Holy Quran Radio",
+    "category": "General;Religious",
+    "country": "SA",
+    "url": "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8"
+  },
+  {
+    "id": "sa-iqraa-africa-europe",
+    "name": "Iqraa Africa & Europe",
+    "category": "Religious",
+    "country": "SA",
+    "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8"
+  },
+  {
+    "id": "sa-iqraa-arabic",
+    "name": "Iqraa Arabic",
+    "category": "Religious",
+    "country": "SA",
+    "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8"
+  },
+  {
+    "id": "sa-iqraa-quran",
+    "name": "Iqraa Quran",
+    "category": "Religious",
+    "country": "SA",
+    "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8"
+  },
+  {
+    "id": "sa-jeddah-radio",
+    "name": "Jeddah Radio",
+    "category": "Music",
+    "country": "SA",
+    "url": "https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8"
+  },
+  {
+    "id": "sa-lbc",
+    "name": "LBC",
+    "category": "General",
+    "country": "SA",
+    "url": "http://185.9.2.18/chid_327/index.m3u8"
+  },
+  {
+    "id": "sa-majid-al-mohandis",
+    "name": "Majid Al Mohandis",
+    "category": "Music",
+    "country": "SA",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8"
+  },
+  {
+    "id": "sa-makkah-tv",
+    "name": "Makkah TV",
+    "category": "Religious",
+    "country": "SA",
+    "url": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8"
+  },
+  {
+    "id": "sa-maraya",
+    "name": "Maraya",
+    "category": "Series",
+    "country": "SA",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8"
+  },
+  {
+    "id": "sa-mbc-loud",
+    "name": "MBC Loud",
+    "category": "Music",
+    "country": "SA",
+    "url": "https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8"
+  },
+  {
+    "id": "sa-mbc-mood",
+    "name": "MBC Mood",
+    "category": "Music",
+    "country": "SA",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8"
+  },
+  {
+    "id": "sa-mohammed-abdo",
+    "name": "Mohammed Abdo",
+    "category": "Music",
+    "country": "SA",
+    "url": "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8"
+  },
+  {
+    "id": "sa-movies-action",
+    "name": "Movies Action",
+    "category": "Movies",
+    "country": "SA",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8"
+  },
+  {
+    "id": "sa-movies-thriller",
+    "name": "Movies Thriller",
+    "category": "Movies",
+    "country": "SA",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8"
+  },
+  {
+    "id": "sa-nidae-alislam-radio",
+    "name": "Nidae AlIslam Radio",
+    "category": "Music",
+    "country": "SA",
+    "url": "https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8"
+  },
+  {
+    "id": "sa-panorama-fm",
+    "name": "Panorama FM",
+    "category": "Music",
+    "country": "SA",
+    "url": "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8"
+  },
+  {
+    "id": "sa-rabeh-saqer",
+    "name": "Rabeh Saqer",
+    "category": "Music",
+    "country": "SA",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8"
+  },
+  {
+    "id": "sa-rashid-almajed",
+    "name": "Rashid AlMajed",
+    "category": "Music",
+    "country": "SA",
+    "url": "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8"
+  },
+  {
+    "id": "sa-rotana-cinema-ksa",
+    "name": "Rotana Cinema KSA",
+    "category": "Movies",
+    "country": "SA",
+    "url": "https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8"
+  },
+  {
+    "id": "sa-rotana-classic",
+    "name": "Rotana Classic",
+    "category": "Classic",
+    "country": "SA",
+    "url": "https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8"
+  },
+  {
+    "id": "sa-rotana-clip",
+    "name": "Rotana Clip",
+    "category": "Undefined",
+    "country": "SA",
+    "url": "https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8"
+  },
+  {
+    "id": "sa-rotana-comedy",
+    "name": "Rotana Comedy",
+    "category": "Comedy",
+    "country": "SA",
+    "url": "https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8"
+  },
+  {
+    "id": "sa-rotana-drama",
+    "name": "Rotana Drama",
+    "category": "Series",
+    "country": "SA",
+    "url": "https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8"
+  },
+  {
+    "id": "sa-rotana-khalijia",
+    "name": "Rotana Khalijia",
+    "category": "Music",
+    "country": "SA",
+    "url": "https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8"
+  },
+  {
+    "id": "sa-rotana-music",
+    "name": "Rotana Music",
+    "category": "Music",
+    "country": "SA",
+    "url": "https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8"
+  },
+  {
+    "id": "sa-saudi-thaqafiya-tv",
+    "name": "Saudi Thaqafiya TV",
+    "category": "Culture",
+    "country": "SA",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8"
+  },
+  {
+    "id": "sa-saudia-radio",
+    "name": "Saudia Radio",
+    "category": "Undefined",
+    "country": "SA",
+    "url": "https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8"
+  },
+  {
+    "id": "sa-sbc",
+    "name": "SBC",
+    "category": "General",
+    "country": "SA",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8"
+  },
+  {
+    "id": "sa-tarab",
+    "name": "Tarab",
+    "category": "Music",
+    "country": "SA",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8"
+  },
+  {
+    "id": "sa-thikrayat-tv",
+    "name": "Thikrayat TV",
+    "category": "Classic",
+    "country": "SA",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8"
+  },
+  {
+    "id": "ps-ajyal-tv",
+    "name": "Ajyal TV",
+    "category": "General",
+    "country": "PS",
+    "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8"
+  },
+  {
+    "id": "ps-al-madina",
+    "name": "Al Madina",
+    "category": "Undefined",
+    "country": "PS",
+    "url": "https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8"
+  },
+  {
+    "id": "ps-al-najah-news",
+    "name": "Al Najah News",
+    "category": "News",
+    "country": "PS",
+    "url": "https://streaming.najah.edu:8443/hls/AlNajah.m3u8"
+  },
+  {
+    "id": "ps-falastini-tv",
+    "name": "Falastini TV",
+    "category": "Music",
+    "country": "PS",
+    "url": "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8"
+  },
+  {
+    "id": "ps-holy-quran-radio-nablus",
+    "name": "Holy Quran Radio Nablus",
+    "category": "Religious",
+    "country": "PS",
+    "url": "http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8"
+  },
+  {
+    "id": "ps-kolalnas-tv",
+    "name": "Kolalnas TV",
+    "category": "News",
+    "country": "PS",
+    "url": "https://htvint.mada.ps/kolalnas/index.m3u8"
+  },
+  {
+    "id": "ps-ma-an-tv",
+    "name": "Ma'an TV",
+    "category": "News",
+    "country": "PS",
+    "url": "https://htvmada.mada.ps:4443/maannews/index.m3u8"
+  },
+  {
+    "id": "ps-musawa-channel",
+    "name": "Musawa Channel",
+    "category": "General",
+    "country": "PS",
+    "url": "https://pbc.furrera.ps/musawahd/index.m3u8"
+  },
+  {
+    "id": "ps-nablus-tv",
+    "name": "Nablus TV",
+    "category": "News",
+    "country": "PS",
+    "url": "http://htvmada.mada.ps:8888/nabluslive/index.m3u8"
+  },
+  {
+    "id": "ps-palestine-edu",
+    "name": "Palestine Edu",
+    "category": "Education",
+    "country": "PS",
+    "url": "https://pbc.furrera.ps/PalestineEDU/index.m3u8"
+  },
+  {
+    "id": "ps-palestine-mubasher",
+    "name": "Palestine Mubasher",
+    "category": "General",
+    "country": "PS",
+    "url": "https://pbc.furrera.ps/palestinelivehd/index.m3u8"
+  },
+  {
+    "id": "ps-palestine-satellite-channel",
+    "name": "Palestine Satellite Channel",
+    "category": "General",
+    "country": "PS",
+    "url": "https://pbc.furrera.ps/palestinehd/index.m3u8"
+  },
+  {
+    "id": "ps-palestine-today",
+    "name": "Palestine Today",
+    "category": "News",
+    "country": "PS",
+    "url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8"
+  },
+  {
+    "id": "ps-radio-albalad-tv",
+    "name": "Radio Albalad TV",
+    "category": "General",
+    "country": "PS",
+    "url": "http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8"
+  },
+  {
+    "id": "ps-rajeen-tv",
+    "name": "Rajeen TV",
+    "category": "Undefined",
+    "country": "PS",
+    "url": "https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8"
+  },
+  {
+    "id": "ps-seraj-tv",
+    "name": "Seraj TV",
+    "category": "General;News",
+    "country": "PS",
+    "url": "https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8"
+  },
+  {
+    "id": "ps-shabab-fm",
+    "name": "Shabab FM",
+    "category": "Undefined",
+    "country": "PS",
+    "url": "https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8"
+  },
+  {
+    "id": "ps-watar-tv",
+    "name": "Watar TV",
+    "category": "General",
+    "country": "PS",
+    "url": "http://htvint.mada.ps:8889/orient/index.m3u8"
+  },
+  {
+    "id": "ps-wattan-tv",
+    "name": "Wattan TV",
+    "category": "Undefined",
+    "country": "PS",
+    "url": "https://htvmada.mada.ps:4443/wattan/index.m3u8"
+  },
+  {
+    "id": "eg-aghapy-tv",
+    "name": "Aghapy TV",
+    "category": "Religious",
+    "country": "EG",
+    "url": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8"
+  },
+  {
+    "id": "eg-al-ghad-tv",
+    "name": "Al Ghad TV",
+    "category": "News",
+    "country": "EG",
+    "url": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8"
+  },
+  {
+    "id": "eg-al-masriyah",
+    "name": "Al Masriyah",
+    "category": "General",
+    "country": "EG",
+    "url": "http://185.9.2.18/chid_247/index.m3u8"
+  },
+  {
+    "id": "eg-atvsat",
+    "name": "ATVSat",
+    "category": "Religious",
+    "country": "EG",
+    "url": "https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8"
+  },
+  {
+    "id": "eg-coptic-tv",
+    "name": "Coptic TV",
+    "category": "Religious",
+    "country": "EG",
+    "url": "https://ctv.icopts.app/CTV/index.fmp4.m3u8"
+  },
+  {
+    "id": "eg-el-radio-9090-fm",
+    "name": "El Radio 9090 FM",
+    "category": "Music",
+    "country": "EG",
+    "url": "https://9090video.mobtada.com/hls/stream.m3u8"
+  },
+  {
+    "id": "eg-elbeshara-gtv",
+    "name": "Elbeshara GTV",
+    "category": "Religious",
+    "country": "EG",
+    "url": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8"
+  },
+  {
+    "id": "eg-huda-tv",
+    "name": "Huda TV",
+    "category": "Religious",
+    "country": "EG",
+    "url": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8"
+  },
+  {
+    "id": "eg-koogi-tv",
+    "name": "Koogi TV",
+    "category": "Kids;Religious",
+    "country": "EG",
+    "url": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
+  },
+  {
+    "id": "eg-mazzika",
+    "name": "Mazzika",
+    "category": "Music",
+    "country": "EG",
+    "url": "http://149.100.11.235:8080/Mazzika/index.m3u8"
+  },
+  {
+    "id": "eg-mbc-1-egypt",
+    "name": "MBC 1 Egypt",
+    "category": "General",
+    "country": "EG",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8"
+  },
+  {
+    "id": "eg-mbc-masr-2",
+    "name": "MBC Masr 2",
+    "category": "General",
+    "country": "EG",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8"
+  },
+  {
+    "id": "eg-mbc-masr",
+    "name": "MBC Masr",
+    "category": "General",
+    "country": "EG",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8"
+  },
+  {
+    "id": "eg-mbc-masr-drama",
+    "name": "MBC Masr Drama",
+    "category": "Series",
+    "country": "EG",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8"
+  },
+  {
+    "id": "eg-mekameleen-tv",
+    "name": "Mekameleen TV",
+    "category": "News",
+    "country": "EG",
+    "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
+  },
+  {
+    "id": "eg-mix-hollywood",
+    "name": "Mix Hollywood",
+    "category": "Movies",
+    "country": "EG",
+    "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8"
+  },
+  {
+    "id": "eg-nile-drama",
+    "name": "Nile Drama",
+    "category": "Movies",
+    "country": "EG",
+    "url": "http://185.9.2.18/chid_352/index.m3u8"
+  },
+  {
+    "id": "eg-nogoumfmtv-672p",
+    "name": "NogoumFMTV (672p)",
+    "category": "Music",
+    "country": "EG",
+    "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8"
+  },
+  {
+    "id": "eg-rotana-cinema-egypt",
+    "name": "Rotana Cinema Egypt",
+    "category": "Movies",
+    "country": "EG",
+    "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8"
+  },
+  {
+    "id": "eg-watan-tv",
+    "name": "Watan TV",
+    "category": "General",
+    "country": "EG",
+    "url": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8"
+  },
+  {
+    "id": "tr-4u-tv",
+    "name": "4U TV",
+    "category": "Entertainment",
+    "country": "TR",
+    "url": "https://hls.4utv.live/hls/stream.m3u8"
+  },
+  {
+    "id": "tr-24-tv",
+    "name": "24 TV",
+    "category": "News",
+    "country": "TR",
+    "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
+  },
+  {
+    "id": "tr-360",
+    "name": "360",
+    "category": "News",
+    "country": "TR",
+    "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
+  },
+  {
+    "id": "tr-a2tv",
+    "name": "A2TV",
+    "category": "General",
+    "country": "TR",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8"
+  },
+  {
+    "id": "tr-a-haber",
+    "name": "A Haber",
+    "category": "News",
+    "country": "TR",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8"
+  },
+  {
+    "id": "tr-a-spor-sd",
+    "name": "A Spor SD",
+    "category": "Sports",
+    "country": "TR",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8"
+  },
+  {
+    "id": "tr-aksu-tv",
+    "name": "Aksu TV",
+    "category": "General",
+    "country": "TR",
+    "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8"
+  },
+  {
+    "id": "tr-al-rafidain-tv",
+    "name": "Al-Rafidain TV",
+    "category": "Religious",
+    "country": "TR",
+    "url": "https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8"
+  },
+  {
+    "id": "tr-al-zahra-tv-turkic",
+    "name": "Al-Zahra TV Turkic",
+    "category": "Religious",
+    "country": "TR",
+    "url": "https://live.al-zahratv.com/live/playlist.m3u8"
+  },
+  {
+    "id": "tr-alanya-posta-tv",
+    "name": "Alanya Posta TV",
+    "category": "General",
+    "country": "TR",
+    "url": "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8"
+  },
+  {
+    "id": "tr-almahriah-tv",
+    "name": "Almahriah TV",
+    "category": "News",
+    "country": "TR",
+    "url": "https://starmenajo.com/hls/almahriah/index.m3u8"
+  },
+  {
+    "id": "tr-altas-tv",
+    "name": "Altas TV",
+    "category": "General",
+    "country": "TR",
+    "url": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8"
+  },
+  {
+    "id": "tr-anadolu-net-tv",
+    "name": "Anadolu Net TV",
+    "category": "General",
+    "country": "TR",
+    "url": "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8"
+  },
+  {
+    "id": "tr-aras-tv",
+    "name": "Aras TV",
+    "category": "General",
+    "country": "TR",
+    "url": "http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8"
+  },
+  {
+    "id": "tr-as-tv-900p",
+    "name": "AS TV (900p)",
+    "category": "News",
+    "country": "TR",
+    "url": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8"
+  },
+  {
+    "id": "tr-atv-turkiye",
+    "name": "ATV (Turkiye)",
+    "category": "General",
+    "country": "TR",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8"
+  },
+  {
+    "id": "tr-atv-alanya",
+    "name": "ATV Alanya",
+    "category": "General",
+    "country": "TR",
+    "url": "https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8"
+  },
+  {
+    "id": "tr-atv-avrupa",
+    "name": "ATV Avrupa",
+    "category": "Undefined",
+    "country": "TR",
+    "url": "https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8"
+  },
+  {
+    "id": "tr-bbc-earth-turkiye",
+    "name": "BBC Earth Turkiye",
+    "category": "Documentary",
+    "country": "TR",
+    "url": "https://nord.ayakkabiparti.lol/bbc/index.m3u8"
+  },
+  {
+    "id": "tr-bbc-first-turkiye",
+    "name": "BBC First Turkiye",
+    "category": "Entertainment",
+    "country": "TR",
+    "url": "http://88.212.15.17/live/bbc_first/index.m3u8"
+  },
+  {
+    "id": "tr-bein-box-office-1",
+    "name": "beIN Box Office 1",
+    "category": "Movies",
+    "country": "TR",
+    "url": "https://nord.ayakkabiparti.lol/box1/index.m3u8"
+  },
+  {
+    "id": "tr-bein-box-office-2",
+    "name": "beIN Box Office 2",
+    "category": "Movies",
+    "country": "TR",
+    "url": "https://nord.ayakkabiparti.lol/box2/index.m3u8"
+  },
+  {
+    "id": "tr-bein-box-office-3",
+    "name": "beIN Box Office 3",
+    "category": "Movies",
+    "country": "TR",
+    "url": "https://nord.ayakkabiparti.lol/box3/index.m3u8"
+  },
+  {
+    "id": "tr-bein-movies-stars",
+    "name": "beIN Movies Stars",
+    "category": "Movies",
+    "country": "TR",
+    "url": "https://nord.ayakkabiparti.lol/bsaction1/index.m3u8"
+  },
+  {
+    "id": "tr-bein-movies-turk",
+    "name": "beIN Movies Turk",
+    "category": "Movies",
+    "country": "TR",
+    "url": "https://nord.ayakkabiparti.lol/bsturk/index.m3u8"
+  },
+  {
+    "id": "tr-bein-sports-1-turk",
+    "name": "beIN Sports 1 Turk",
+    "category": "Sports",
+    "country": "TR",
+    "url": "https://andro.mangeinde4.lat/checklist/androstreamlivebs1.m3u8"
+  },
+  {
+    "id": "tr-bein-sports-2-turk",
+    "name": "beIN Sports 2 Turk",
+    "category": "Sports",
+    "country": "TR",
+    "url": "https://andro.mangeinde4.lat/checklist/androstreamlivebs2.m3u8"
+  },
+  {
+    "id": "tr-bein-sports-3-turk",
+    "name": "beIN Sports 3 Turk",
+    "category": "Sports",
+    "country": "TR",
+    "url": "https://andro.mangeinde4.lat/checklist/androstreamlivebs3.m3u8"
+  },
+  {
+    "id": "tr-bein-sports-4-turk",
+    "name": "beIN Sports 4 Turk",
+    "category": "Sports",
+    "country": "TR",
+    "url": "https://andro.mangeinde4.lat/checklist/androstreamlivebs4.m3u8"
+  },
+  {
+    "id": "tr-bein-sports-5-turk",
+    "name": "beIN Sports 5 Turk",
+    "category": "Sports",
+    "country": "TR",
+    "url": "https://andro.mangeinde4.lat/checklist/androstreamlivebs5.m3u8"
+  },
+  {
+    "id": "tr-bein-sports-haber",
+    "name": "beIN Sports Haber",
+    "category": "Sports",
+    "country": "TR",
+    "url": "https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8"
+  },
+  {
+    "id": "tr-benguturk-tv",
+    "name": "Benguturk TV",
+    "category": "General",
+    "country": "TR",
+    "url": "http://185.234.111.229:8000/play/a05u"
+  },
+  {
+    "id": "tr-beyaz-tv",
+    "name": "Beyaz TV",
+    "category": "Undefined",
+    "country": "TR",
+    "url": "https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8"
+  },
+  {
+    "id": "tr-bir-tv",
+    "name": "Bir TV",
+    "category": "Undefined",
+    "country": "TR",
+    "url": "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8"
+  },
+  {
+    "id": "tr-bloomberg-ht",
+    "name": "Bloomberg HT",
+    "category": "Business",
+    "country": "TR",
+    "url": "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8"
+  },
+  {
+    "id": "tr-bric-ve-satranc-tv",
+    "name": "Bric ve Satranc TV",
+    "category": "Undefined",
+    "country": "TR",
+    "url": "http://139.162.182.79/live/test/index.m3u8"
+  },
+  {
+    "id": "tr-brtv-turkiye",
+    "name": "BRTV (Turkiye)",
+    "category": "Undefined",
+    "country": "TR",
+    "url": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8"
+  },
+  {
+    "id": "tr-bursa-tv",
+    "name": "Bursa TV",
+    "category": "Undefined",
+    "country": "TR",
+    "url": "https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8"
+  },
+  {
+    "id": "tr-cay-tv",
+    "name": "Cay TV",
+    "category": "General",
+    "country": "TR",
+    "url": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8"
+  },
+  {
+    "id": "tr-cekmekoy-tv",
+    "name": "Cekmekoy TV",
+    "category": "General",
+    "country": "TR",
+    "url": "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8"
+  },
+  {
+    "id": "uk-5-cops",
+    "name": "5 Cops",
+    "category": "Series",
+    "country": "UK",
+    "url": "https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8"
+  },
+  {
+    "id": "uk-5usa",
+    "name": "5USA",
+    "category": "Entertainment",
+    "country": "UK",
+    "url": "https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8"
+  },
+  {
+    "id": "uk-aaj-tak",
+    "name": "Aaj Tak",
+    "category": "News",
+    "country": "UK",
+    "url": "http://103.213.31.109:90/AajtakHD/playlist.m3u8"
+  },
+  {
+    "id": "uk-aathavan-tv",
+    "name": "Aathavan TV",
+    "category": "Entertainment",
+    "country": "UK",
+    "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8"
+  },
+  {
+    "id": "uk-adventure-earth",
+    "name": "Adventure Earth",
+    "category": "Documentary",
+    "country": "UK",
+    "url": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8"
+  },
+  {
+    "id": "uk-afrobeat-tv-entertainment",
+    "name": "Afrobeat TV Entertainment",
+    "category": "Music",
+    "country": "UK",
+    "url": "https://stream.ecable.tv/afrobeats/index.m3u8"
+  },
+  {
+    "id": "uk-ahlulbayt-tv",
+    "name": "Ahlulbayt TV",
+    "category": "Religious",
+    "country": "UK",
+    "url": "https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8"
+  },
+  {
+    "id": "uk-akaal-channel-396p",
+    "name": "Akaal Channel (396p)",
+    "category": "Religious",
+    "country": "UK",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8"
+  },
+  {
+    "id": "uk-al-hiwar-tv",
+    "name": "Al Hiwar TV",
+    "category": "Education",
+    "country": "UK",
+    "url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8"
+  },
+  {
+    "id": "uk-alb-uk-tv",
+    "name": "Alb UK TV",
+    "category": "General",
+    "country": "UK",
+    "url": "http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8"
+  },
+  {
+    "id": "uk-anand-tv-united-kingdom",
+    "name": "Anand TV (United Kingdom)",
+    "category": "General",
+    "country": "UK",
+    "url": "https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8"
+  },
+  {
+    "id": "uk-andromeda-uk",
+    "name": "Andromeda UK",
+    "category": "Series",
+    "country": "UK",
+    "url": "https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8"
+  },
+  {
+    "id": "uk-anthony-bourdain-parts-unknown",
+    "name": "Anthony Bourdain: Parts Unknown",
+    "category": "Series",
+    "country": "UK",
+    "url": "https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8"
+  },
+  {
+    "id": "uk-atn-bangla-uk",
+    "name": "ATN Bangla UK",
+    "category": "General",
+    "country": "UK",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8"
+  },
+  {
+    "id": "uk-auction-hunters-germany-gb",
+    "name": "Auction Hunters (Germany) GB",
+    "category": "Entertainment",
+    "country": "UK",
+    "url": "https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8"
+  },
+  {
+    "id": "uk-autentic-history",
+    "name": "Autentic History",
+    "category": "Documentary",
+    "country": "UK",
+    "url": "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8"
+  },
+  {
+    "id": "uk-autentic-travel",
+    "name": "Autentic Travel",
+    "category": "Lifestyle",
+    "country": "UK",
+    "url": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8"
+  },
+  {
+    "id": "uk-avatar-germany",
+    "name": "Avatar (Germany)",
+    "category": "Animation;Kids;Series",
+    "country": "UK",
+    "url": "https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8"
+  },
+  {
+    "id": "uk-babytv",
+    "name": "BabyTV",
+    "category": "Kids",
+    "country": "UK",
+    "url": "http://57.128.231.171:8080/310/index.m3u8"
+  },
+  {
+    "id": "uk-bbc-alba",
+    "name": "BBC Alba",
+    "category": "General",
+    "country": "UK",
+    "url": "https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd"
+  },
+  {
+    "id": "uk-bbc-four",
+    "name": "BBC Four",
+    "category": "Culture;Documentary",
+    "country": "UK",
+    "url": "https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd"
+  },
+  {
+    "id": "uk-bbc-four-cbeebies",
+    "name": "BBC Four/CBeebies",
+    "category": "Animation;General;Kids",
+    "country": "UK",
+    "url": "http://193.46.58.239:8080/CbeebiesHD/index.m3u8"
+  },
+  {
+    "id": "uk-bbc-news-uk-hd",
+    "name": "BBC News UK HD",
+    "category": "News",
+    "country": "UK",
+    "url": "http://45.153.96.44:8001"
+  },
+  {
+    "id": "uk-bbc-news-pashto",
+    "name": "BBC News Pashto",
+    "category": "Undefined",
+    "country": "UK",
+    "url": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd"
+  },
+  {
+    "id": "uk-bbc-one",
+    "name": "BBC One",
+    "category": "General",
+    "country": "UK",
+    "url": "https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd"
+  },
+  {
+    "id": "uk-bbc-one-east",
+    "name": "BBC One East",
+    "category": "General",
+    "country": "UK",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd"
+  },
+  {
+    "id": "uk-bbc-one-east-midlands",
+    "name": "BBC One East Midlands",
+    "category": "General",
+    "country": "UK",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd"
+  },
+  {
+    "id": "uk-bbc-one-east-midlands-hd",
+    "name": "BBC One East Midlands HD",
+    "category": "General",
+    "country": "UK",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/hevc_iptv_mse_v0.mpd"
+  },
+  {
+    "id": "uk-bbc-one-london-hd",
+    "name": "BBC One London HD",
+    "category": "General",
+    "country": "UK",
+    "url": "http://193.46.58.239:8080/BBCOneHD/index.m3u8"
+  },
+  {
+    "id": "uk-bbc-one-north-east-cumbria",
+    "name": "BBC One North East & Cumbria",
+    "category": "General",
+    "country": "UK",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd"
+  },
+  {
+    "id": "uk-bbc-one-north-east-cumbria-hd",
+    "name": "BBC One North East & Cumbria HD",
+    "category": "General",
+    "country": "UK",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/hevc_iptv_mse_v0.mpd"
+  },
+  {
+    "id": "uk-bbc-one-north-west",
+    "name": "BBC One North West",
+    "category": "General",
+    "country": "UK",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.mpd"
+  },
+  {
+    "id": "uk-bbc-one-north-west-hd",
+    "name": "BBC One North West HD",
+    "category": "General",
+    "country": "UK",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/hevc_iptv_mse_v0.mpd"
+  },
+  {
+    "id": "uk-bbc-one-northern-ireland",
+    "name": "BBC One Northern Ireland",
+    "category": "General",
+    "country": "UK",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd"
+  },
+  {
+    "id": "uk-bbc-one-northern-ireland-hd",
+    "name": "BBC One Northern Ireland HD",
+    "category": "General",
+    "country": "UK",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/hevc_iptv_mse_v0.mpd"
+  },
+  {
+    "id": "uk-bbc-one-scotland-540p",
+    "name": "BBC One Scotland (540p)",
+    "category": "General",
+    "country": "UK",
+    "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.m3u8"
+  },
+  {
+    "id": "uk-bbc-one-scotland-hd",
+    "name": "BBC One Scotland HD",
+    "category": "General",
+    "country": "UK",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.mpd"
+  },
+  {
+    "id": "uk-bbc-one-south",
+    "name": "BBC One South",
+    "category": "General",
+    "country": "UK",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/pc_hd_abr_v2.mpd"
+  },
+  {
+    "id": "uk-bbc-one-south-east",
+    "name": "BBC One South East",
+    "category": "General",
+    "country": "UK",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/pc_hd_abr_v2.mpd"
+  },
+  {
+    "id": "uk-bbc-one-south-west",
+    "name": "BBC One South West",
+    "category": "General",
+    "country": "UK",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/pc_hd_abr_v2.mpd"
+  },
+  {
+    "id": "us-00s-replay",
+    "name": "00s Replay",
+    "category": "Movies",
+    "country": "US",
+    "url": "https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8"
+  },
+  {
+    "id": "us-3abn-english",
+    "name": "3ABN English",
+    "category": "Religious",
+    "country": "US",
+    "url": "https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8"
+  },
+  {
+    "id": "us-3abn-french",
+    "name": "3ABN French",
+    "category": "Religious",
+    "country": "US",
+    "url": "https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8"
+  },
+  {
+    "id": "us-3abn-kids",
+    "name": "3ABN Kids",
+    "category": "Animation;Kids;Religious",
+    "country": "US",
+    "url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+  },
+  {
+    "id": "us-3abn-latino",
+    "name": "3ABN Latino",
+    "category": "Religious",
+    "country": "US",
+    "url": "http://138.59.177.78:9999/play/a0a3/index.m3u8"
+  },
+  {
+    "id": "us-3abn-praise-him-music-network",
+    "name": "3ABN Praise Him Music Network",
+    "category": "Music;Religious",
+    "country": "US",
+    "url": "https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8"
+  },
+  {
+    "id": "us-3abn-proclaim-network",
+    "name": "3ABN Proclaim! Network",
+    "category": "Religious",
+    "country": "US",
+    "url": "https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8"
+  },
+  {
+    "id": "us-24-hour-free-movies",
+    "name": "24 Hour Free Movies",
+    "category": "Movies",
+    "country": "US",
+    "url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8"
+  },
+  {
+    "id": "us-30a-darcizzle-offshore",
+    "name": "30A Darcizzle Offshore",
+    "category": "Outdoor",
+    "country": "US",
+    "url": "https://30a-tv.com/darcizzle.m3u8"
+  },
+  {
+    "id": "us-30a-georgia-hollywood-review",
+    "name": "30A Georgia Hollywood Review",
+    "category": "Entertainment;News",
+    "country": "US",
+    "url": "https://30a-tv.com/gh.m3u8"
+  },
+  {
+    "id": "us-30a-golf-kingdom",
+    "name": "30A Golf Kingdom",
+    "category": "Sports",
+    "country": "US",
+    "url": "https://30a-tv.com/feeds/vidaa/golf.m3u8"
+  },
+  {
+    "id": "us-30a-investment-pitch",
+    "name": "30A Investment Pitch",
+    "category": "Business",
+    "country": "US",
+    "url": "https://30a-tv.com/feeds/xodglobal/30atv.m3u8"
+  },
+  {
+    "id": "us-30a-lionel-nation",
+    "name": "30A Lionel Nation",
+    "category": "News",
+    "country": "US",
+    "url": "https://30a-tv.com/ln.m3u8"
+  },
+  {
+    "id": "us-30a-loomered-tv",
+    "name": "30A Loomered TV",
+    "category": "Documentary;News",
+    "country": "US",
+    "url": "https://30a-tv.com/loomer.m3u8"
+  },
+  {
+    "id": "us-30a-luxe-life-discovered",
+    "name": "30A Luxe Life Discovered",
+    "category": "Lifestyle",
+    "country": "US",
+    "url": "https://30a-tv.com/feeds/vidaa/luxelife.m3u8"
+  },
+  {
+    "id": "us-30a-music",
+    "name": "30A Music",
+    "category": "Music",
+    "country": "US",
+    "url": "https://30a-tv.com/music.m3u8"
+  },
+  {
+    "id": "us-30a-ridiculous-tv",
+    "name": "30A Ridiculous TV",
+    "category": "Comedy",
+    "country": "US",
+    "url": "https://30a-tv.com/feeds/720p/63.m3u8"
+  },
+  {
+    "id": "us-30a-sidewalks",
+    "name": "30A Sidewalks",
+    "category": "Entertainment",
+    "country": "US",
+    "url": "https://30a-tv.com/sidewalks.m3u8"
+  },
+  {
+    "id": "us-30a-television-channel",
+    "name": "30A Television Channel",
+    "category": "Entertainment",
+    "country": "US",
+    "url": "https://30a-tv.com/feeds/masters/30atv.m3u8"
+  },
+  {
+    "id": "us-30a-the-beach-show",
+    "name": "30A The Beach Show",
+    "category": "Shop",
+    "country": "US",
+    "url": "https://30a-tv.com/beachy.m3u8"
+  },
+  {
+    "id": "us-30a-tv-classic-movies",
+    "name": "30A TV Classic Movies",
+    "category": "Movies",
+    "country": "US",
+    "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8"
+  },
+  {
+    "id": "us-30a-we-love-cars",
+    "name": "30A We Love Cars",
+    "category": "Auto",
+    "country": "US",
+    "url": "https://30a-tv.com/feeds/vidaa/cars.m3u8"
+  },
+  {
+    "id": "us-48-hours",
+    "name": "48 Hours",
+    "category": "Series",
+    "country": "US",
+    "url": "https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8"
+  },
+  {
+    "id": "us-50-cent-action",
+    "name": "50 Cent Action",
+    "category": "Movies;Series",
+    "country": "US",
+    "url": "https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8"
+  },
+  {
+    "id": "us-70s-cinema",
+    "name": "70s Cinema",
+    "category": "Movies",
+    "country": "US",
+    "url": "https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8"
+  },
+  {
+    "id": "us-80s-rewind",
+    "name": "80s Rewind",
+    "category": "Movies",
+    "country": "US",
+    "url": "https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8"
+  },
+  {
+    "id": "us-90-s-kids",
+    "name": "90's Kids",
+    "category": "Kids",
+    "country": "US",
+    "url": "https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8"
+  },
+  {
+    "id": "us-90s-kids-tv-2",
+    "name": "90s Kids TV 2",
+    "category": "Kids",
+    "country": "US",
+    "url": "https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8"
+  },
+  {
+    "id": "us-90s-throwback",
+    "name": "90s Throwback",
+    "category": "Movies",
+    "country": "US",
+    "url": "https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8"
+  },
+  {
+    "id": "us-a-e",
+    "name": "A&E",
+    "category": "Entertainment",
+    "country": "US",
+    "url": "http://23.239.31.26:8989/aande/index.m3u8"
+  },
+  {
+    "id": "us-abc-kaal",
+    "name": "ABC KAAL",
+    "category": "General",
+    "country": "US",
+    "url": "https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "us-abc-kero-tv",
+    "name": "ABC KERO-TV",
+    "category": "General",
+    "country": "US",
+    "url": "https://aegis-cloudfront-1.tubi.video/69c4e4f9-84fa-43eb-b38e-6d1f9464ca73/playlist.m3u8"
+  },
+  {
+    "id": "us-abc-kgtv",
+    "name": "ABC KGTV",
+    "category": "General",
+    "country": "US",
+    "url": "https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8"
+  },
+  {
+    "id": "us-abc-kgun-tv",
+    "name": "ABC KGUN-TV",
+    "category": "General",
+    "country": "US",
+    "url": "https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8"
+  },
+  {
+    "id": "us-abc-kitv",
+    "name": "ABC KITV",
+    "category": "General",
+    "country": "US",
+    "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8"
+  },
+  {
+    "id": "us-abc-kmgh-tv",
+    "name": "ABC KMGH-TV",
+    "category": "General",
+    "country": "US",
+    "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+  },
+  {
+    "id": "us-abc-koat-tv",
+    "name": "ABC KOAT-TV",
+    "category": "General",
+    "country": "US",
+    "url": "https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8"
+  },
+  {
+    "id": "us-abc-krgv-tv",
+    "name": "ABC KRGV-TV",
+    "category": "General",
+    "country": "US",
+    "url": "https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8"
+  },
+  {
+    "id": "us-abc-kstp-tv",
+    "name": "ABC KSTP-TV",
+    "category": "General",
+    "country": "US",
+    "url": "https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "us-abc-kxxv",
+    "name": "ABC KXXV",
+    "category": "General",
+    "country": "US",
+    "url": "https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8"
+  },
+  {
+    "id": "jp-cgntv-japan",
+    "name": "CGNTV Japan",
+    "category": "Religious",
+    "country": "JP",
+    "url": "https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8"
+  },
+  {
+    "id": "jp-gstv",
+    "name": "GSTV",
+    "category": "Shop",
+    "country": "JP",
+    "url": "https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)"
+  },
+  {
+    "id": "jp-mnb-world",
+    "name": "MNB World",
+    "category": "General",
+    "country": "JP",
+    "url": "https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd"
+  },
+  {
+    "id": "jp-nhk-general-tv",
+    "name": "NHK General TV",
+    "category": "General",
+    "country": "JP",
+    "url": "https://nhk4.mov3.co/hls/nhk.m3u8"
+  },
+  {
+    "id": "jp-qvc-japan",
+    "name": "QVC (Japan)",
+    "category": "Shop",
+    "country": "JP",
+    "url": "https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8"
+  },
+  {
+    "id": "jp-shop-channel",
+    "name": "Shop Channel",
+    "category": "Shop",
+    "country": "JP",
+    "url": "https://stream3.shopch.jp/HLS/master.m3u8"
+  },
+  {
+    "id": "jp-tbs-tv-japan-540p",
+    "name": "TBS TV (Japan) (540p)",
+    "category": "General",
+    "country": "JP",
+    "url": "https://tbs5.mov3.co/hls/tbs.m3u8"
+  },
+  {
+    "id": "jp-weathernews",
+    "name": "Weathernews",
+    "category": "Weather",
+    "country": "JP",
+    "url": "https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8"
+  },
+  {
+    "id": "de-1-2-3-tv-270p",
+    "name": "1-2-3.tv (270p)",
+    "category": "Shop",
+    "country": "DE",
+    "url": "https://123tv-mx1.flex-cdn.net/index.m3u8"
+  },
+  {
+    "id": "de-3sat",
+    "name": "3sat",
+    "category": "General",
+    "country": "DE",
+    "url": "https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8"
+  },
+  {
+    "id": "de-90210",
+    "name": "90210",
+    "category": "Series",
+    "country": "DE",
+    "url": "https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8"
+  },
+  {
+    "id": "de-adria-music-television",
+    "name": "Adria Music Television",
+    "category": "Music",
+    "country": "DE",
+    "url": "https://adriaapp.b-cdn.net/1080p/index.m3u8"
+  },
+  {
+    "id": "de-adventure-earth",
+    "name": "Adventure Earth",
+    "category": "Documentary",
+    "country": "DE",
+    "url": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8"
+  },
+  {
+    "id": "de-alex-berlin",
+    "name": "Alex Berlin",
+    "category": "Undefined",
+    "country": "DE",
+    "url": "https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8"
+  },
+  {
+    "id": "de-alle-hassen-chris",
+    "name": "Alle hassen Chris",
+    "category": "Comedy",
+    "country": "DE",
+    "url": "https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8"
+  },
+  {
+    "id": "de-allgau-tv",
+    "name": "Allgau TV",
+    "category": "General",
+    "country": "DE",
+    "url": "https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8"
+  },
+  {
+    "id": "de-altenburg-tv",
+    "name": "Altenburg TV",
+    "category": "General",
+    "country": "DE",
+    "url": "https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8"
+  },
+  {
+    "id": "de-animal-kingdom",
+    "name": "ANIMAL KINGDOM",
+    "category": "Outdoor",
+    "country": "DE",
+    "url": "https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8"
+  },
+  {
+    "id": "de-anixe",
+    "name": "Anixe +",
+    "category": "Entertainment",
+    "country": "DE",
+    "url": "https://ma.anixa.tv/clips/stream/anixesd/index.m3u8"
+  },
+  {
+    "id": "de-anixe-hd-serie",
+    "name": "Anixe HD Serie",
+    "category": "Entertainment",
+    "country": "DE",
+    "url": "https://ma.anixa.tv/clips/stream/anixehd/index.m3u8"
+  },
+  {
+    "id": "de-ard-alpha",
+    "name": "ARD-alpha",
+    "category": "Education",
+    "country": "DE",
+    "url": "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8"
+  },
+  {
+    "id": "de-aristo-tv",
+    "name": "Aristo TV",
+    "category": "Undefined",
+    "country": "DE",
+    "url": "https://ma.anixa.tv/clips/stream/aristo/index.m3u8"
+  },
+  {
+    "id": "de-arte-germany",
+    "name": "arte (Germany)",
+    "category": "Entertainment",
+    "country": "DE",
+    "url": "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8"
+  },
+  {
+    "id": "de-arte-germany-hd",
+    "name": "arte (Germany) HD",
+    "category": "Entertainment",
+    "country": "DE",
+    "url": "https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8"
+  },
+  {
+    "id": "de-auction-hunters-germany",
+    "name": "Auction Hunters (Germany)",
+    "category": "Entertainment",
+    "country": "DE",
+    "url": "https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8"
+  },
+  {
+    "id": "de-augsburg-tv",
+    "name": "Augsburg TV",
+    "category": "General",
+    "country": "DE",
+    "url": "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8"
+  },
+  {
+    "id": "de-autentic-history",
+    "name": "Autentic History",
+    "category": "Documentary",
+    "country": "DE",
+    "url": "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8"
+  },
+  {
+    "id": "de-autentic-travel",
+    "name": "Autentic Travel",
+    "category": "Lifestyle",
+    "country": "DE",
+    "url": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8"
+  },
+  {
+    "id": "de-awkward-germany",
+    "name": "Awkward (Germany)",
+    "category": "Series",
+    "country": "DE",
+    "url": "https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8"
+  },
+  {
+    "id": "de-baden-tv",
+    "name": "Baden TV",
+    "category": "General",
+    "country": "DE",
+    "url": "http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8"
+  },
+  {
+    "id": "de-bbc-travel",
+    "name": "BBC Travel",
+    "category": "Lifestyle",
+    "country": "DE",
+    "url": "https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8"
+  },
+  {
+    "id": "de-becker-germany",
+    "name": "Becker (Germany)",
+    "category": "Comedy",
+    "country": "DE",
+    "url": "https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8"
+  },
+  {
+    "id": "de-bibel-tv",
+    "name": "Bibel TV",
+    "category": "Undefined",
+    "country": "DE",
+    "url": "https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8"
+  },
+  {
+    "id": "de-bibel-tv-impuls",
+    "name": "Bibel TV Impuls",
+    "category": "Undefined",
+    "country": "DE",
+    "url": "https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8"
+  },
+  {
+    "id": "de-bibel-tv-musik",
+    "name": "Bibel TV Musik",
+    "category": "Music",
+    "country": "DE",
+    "url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8"
+  },
+  {
+    "id": "de-big-brother-classic",
+    "name": "BIG BROTHER CLASSIC",
+    "category": "Entertainment",
+    "country": "DE",
+    "url": "https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8"
+  },
+  {
+    "id": "de-blk-regional-tv",
+    "name": "BLK Regional TV",
+    "category": "Undefined",
+    "country": "DE",
+    "url": "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8"
+  },
+  {
+    "id": "de-br-fernsehen",
+    "name": "BR Fernsehen",
+    "category": "Undefined",
+    "country": "DE",
+    "url": "https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8"
+  },
+  {
+    "id": "de-br-fernsehen-sud",
+    "name": "BR Fernsehen Sud",
+    "category": "Undefined",
+    "country": "DE",
+    "url": "https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8"
+  },
+  {
+    "id": "de-cc-pluto-tv",
+    "name": "CC Pluto TV",
+    "category": "Comedy",
+    "country": "DE",
+    "url": "https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8"
+  },
+  {
+    "id": "de-chaos-city",
+    "name": "Chaos City",
+    "category": "Series",
+    "country": "DE",
+    "url": "https://jmp2.uk/plu-60afbad343e3840007164348.m3u8"
+  },
+  {
+    "id": "de-cira-tv",
+    "name": "Cira TV",
+    "category": "Undefined",
+    "country": "DE",
+    "url": "https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8"
+  },
+  {
+    "id": "de-comedy-central-germany",
+    "name": "Comedy Central (Germany)",
+    "category": "Comedy",
+    "country": "DE",
+    "url": "https://ma.anixa.tv/clips/stream/comedy_central/playlist.php"
+  },
+  {
+    "id": "de-curiosity-channel",
+    "name": "Curiosity Channel",
+    "category": "Education",
+    "country": "DE",
+    "url": "https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8"
+  },
+  {
+    "id": "de-das-erste-hd",
+    "name": "Das Erste HD",
+    "category": "General",
+    "country": "DE",
+    "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8"
+  },
+  {
+    "id": "de-dasding-90-8",
+    "name": "DASDING 90.8",
+    "category": "Music",
+    "country": "DE",
+    "url": "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8"
+  },
+  {
+    "id": "de-dazn-darts-x-pluto-tv",
+    "name": "DAZN Darts x Pluto TV",
+    "category": "Sports",
+    "country": "DE",
+    "url": "https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8"
+  },
+  {
+    "id": "de-dazn-heldinnen-x-pluto-tv",
+    "name": "DAZN Heldinnen x Pluto TV",
+    "category": "Sports",
+    "country": "DE",
+    "url": "https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8"
+  },
+  {
+    "id": "fr-6ter",
+    "name": "6ter",
+    "category": "Entertainment",
+    "country": "FR",
+    "url": "http://145.239.5.177/314/index.m3u8"
+  },
+  {
+    "id": "fr-20-minutes-tv",
+    "name": "20 Minutes TV",
+    "category": "General",
+    "country": "FR",
+    "url": "https://live-20minutestv.digiteka.com/1961167769/index.m3u8"
+  },
+  {
+    "id": "fr-ab1",
+    "name": "AB1",
+    "category": "Entertainment",
+    "country": "FR",
+    "url": "http://145.239.5.177/332/index.m3u8"
+  },
+  {
+    "id": "fr-adn-tv",
+    "name": "ADN TV+",
+    "category": "Animation",
+    "country": "FR",
+    "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8"
+  },
+  {
+    "id": "fr-africa-24",
+    "name": "Africa 24",
+    "category": "News",
+    "country": "FR",
+    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"
+  },
+  {
+    "id": "fr-africa-24-english",
+    "name": "Africa 24 English",
+    "category": "News",
+    "country": "FR",
+    "url": "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8"
+  },
+  {
+    "id": "fr-africa-24-sport",
+    "name": "Africa 24 Sport",
+    "category": "News;Sports",
+    "country": "FR",
+    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
+  },
+  {
+    "id": "fr-alerte-a-malibu",
+    "name": "Alerte a Malibu",
+    "category": "Series",
+    "country": "FR",
+    "url": "https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8"
+  },
+  {
+    "id": "fr-alpe-d-huez-tv",
+    "name": "Alpe d'Huez TV",
+    "category": "General",
+    "country": "FR",
+    "url": "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8"
+  },
+  {
+    "id": "fr-antenne-reunion",
+    "name": "Antenne Reunion",
+    "category": "General",
+    "country": "FR",
+    "url": "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01"
+  },
+  {
+    "id": "fr-arte-france",
+    "name": "arte (France)",
+    "category": "Entertainment",
+    "country": "FR",
+    "url": "http://145.239.5.177/300/index.m3u8"
+  },
+  {
+    "id": "fr-bfm2",
+    "name": "BFM2",
+    "category": "News",
+    "country": "FR",
+    "url": "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8"
+  },
+  {
+    "id": "fr-bfm-alsace",
+    "name": "BFM Alsace",
+    "category": "General",
+    "country": "FR",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE"
+  },
+  {
+    "id": "fr-bfm-business",
+    "name": "BFM Business",
+    "category": "Business;News",
+    "country": "FR",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE"
+  },
+  {
+    "id": "fr-bfm-cote-d-azur",
+    "name": "BFM Cote d'Azur",
+    "category": "News",
+    "country": "FR",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE"
+  },
+  {
+    "id": "fr-bfm-dici-alpes-du-sud",
+    "name": "BFM DICI Alpes du Sud",
+    "category": "News",
+    "country": "FR",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE"
+  },
+  {
+    "id": "fr-bfm-dici-haute-provence",
+    "name": "BFM DICI Haute-Provence",
+    "category": "News",
+    "country": "FR",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE"
+  },
+  {
+    "id": "fr-bfm-grand-lille",
+    "name": "BFM Grand Lille",
+    "category": "News",
+    "country": "FR",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE"
+  },
+  {
+    "id": "fr-bfm-grand-littoral",
+    "name": "BFM Grand Littoral",
+    "category": "News",
+    "country": "FR",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE"
+  },
+  {
+    "id": "fr-bfm-lyon",
+    "name": "BFM Lyon",
+    "category": "News",
+    "country": "FR",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE"
+  },
+  {
+    "id": "fr-bfm-marseille",
+    "name": "BFM Marseille",
+    "category": "News",
+    "country": "FR",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE"
+  },
+  {
+    "id": "fr-bfm-normandie",
+    "name": "BFM Normandie",
+    "category": "News",
+    "country": "FR",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE"
+  },
+  {
+    "id": "fr-bfm-tech-co",
+    "name": "BFM Tech & Co",
+    "category": "News;Science",
+    "country": "FR",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE"
+  },
+  {
+    "id": "fr-bfm-tv",
+    "name": "BFM TV",
+    "category": "News",
+    "country": "FR",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE"
+  },
+  {
+    "id": "fr-bfm-var",
+    "name": "BFM Var",
+    "category": "News",
+    "country": "FR",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE"
+  },
+  {
+    "id": "fr-brionnais-tv",
+    "name": "Brionnais TV",
+    "category": "General",
+    "country": "FR",
+    "url": "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8"
+  },
+  {
+    "id": "fr-c-star",
+    "name": "C Star",
+    "category": "Entertainment",
+    "country": "FR",
+    "url": "http://145.239.5.177/361/index.m3u8"
+  },
+  {
+    "id": "fr-caillou",
+    "name": "Caillou",
+    "category": "Undefined",
+    "country": "FR",
+    "url": "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8"
+  },
+  {
+    "id": "fr-canal",
+    "name": "Canal+",
+    "category": "Entertainment",
+    "country": "FR",
+    "url": "http://151.80.18.177:86/Canal+_HD/index.m3u8"
+  },
+  {
+    "id": "fr-canal-cinemas",
+    "name": "Canal+ Cinemas",
+    "category": "Movies",
+    "country": "FR",
+    "url": "http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8"
+  },
+  {
+    "id": "fr-canal-sport-360",
+    "name": "Canal+ Sport 360",
+    "category": "Sports",
+    "country": "FR",
+    "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8"
+  },
+  {
+    "id": "fr-canal-sport",
+    "name": "Canal+ Sport",
+    "category": "Sports",
+    "country": "FR",
+    "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8"
+  },
+  {
+    "id": "fr-cannes-lerins-tv",
+    "name": "Cannes Lerins TV",
+    "category": "General",
+    "country": "FR",
+    "url": "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8"
+  },
+  {
+    "id": "fr-cap-terre",
+    "name": "Cap Terre",
+    "category": "Documentary",
+    "country": "FR",
+    "url": "http://145.239.5.177/359a/index.m3u8"
+  },
+  {
+    "id": "fr-cine-666-by-pluto-tv",
+    "name": "Cine 666 by Pluto TV",
+    "category": "Movies",
+    "country": "FR",
+    "url": "https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8"
+  },
+  {
+    "id": "fr-cine-action-by-pluto-tv",
+    "name": "Cine Action by Pluto TV",
+    "category": "Movies",
+    "country": "FR",
+    "url": "https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8"
+  },
+  {
+    "id": "fr-cine-by-pluto-tv",
+    "name": "Cine by Pluto TV",
+    "category": "Movies",
+    "country": "FR",
+    "url": "https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8"
+  },
+  {
+    "id": "fr-cine-catastrophe-by-pluto-tv",
+    "name": "Cine Catastrophe by Pluto TV",
+    "category": "Movies",
+    "country": "FR",
+    "url": "https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8"
+  },
+  {
+    "id": "fr-cine-d-asie-by-pluto-tv",
+    "name": "Cine d'Asie by Pluto TV",
+    "category": "Movies",
+    "country": "FR",
+    "url": "https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8"
+  },
+  {
+    "id": "fr-cine-horreur-by-pluto-tv",
+    "name": "Cine Horreur by Pluto TV",
+    "category": "Movies",
+    "country": "FR",
+    "url": "https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8"
+  },
+  {
+    "id": "au-2gb",
+    "name": "2GB",
+    "category": "News",
+    "country": "AU",
+    "url": "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8"
+  },
+  {
+    "id": "au-3aw",
+    "name": "3AW",
+    "category": "News",
+    "country": "AU",
+    "url": "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8"
+  },
+  {
+    "id": "au-6pr",
+    "name": "6PR",
+    "category": "News",
+    "country": "AU",
+    "url": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8"
+  },
+  {
+    "id": "au-9gem",
+    "name": "9Gem",
+    "category": "Entertainment",
+    "country": "AU",
+    "url": "https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8"
+  },
+  {
+    "id": "au-9go",
+    "name": "9Go!",
+    "category": "Entertainment;Kids",
+    "country": "AU",
+    "url": "https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8"
+  },
+  {
+    "id": "au-9life",
+    "name": "9Life",
+    "category": "Lifestyle",
+    "country": "AU",
+    "url": "https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8"
+  },
+  {
+    "id": "au-10-bold",
+    "name": "10 Bold",
+    "category": "Lifestyle;Relax",
+    "country": "AU",
+    "url": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8"
+  },
+  {
+    "id": "au-abc-entertains",
+    "name": "ABC Entertains",
+    "category": "Education;Kids",
+    "country": "AU",
+    "url": "https://c.mjh.nz/abc-me.m3u8"
+  },
+  {
+    "id": "au-abc-kids",
+    "name": "ABC Kids",
+    "category": "Kids",
+    "country": "AU",
+    "url": "https://c.mjh.nz/abc-kids.m3u8"
+  },
+  {
+    "id": "au-abc-news",
+    "name": "ABC News",
+    "category": "News",
+    "country": "AU",
+    "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"
+  },
+  {
+    "id": "au-abc-tv",
+    "name": "ABC TV",
+    "category": "General",
+    "country": "AU",
+    "url": "https://c.mjh.nz/abc-nsw.m3u8"
+  },
+  {
+    "id": "au-abc-tv-act",
+    "name": "ABC TV ACT",
+    "category": "General",
+    "country": "AU",
+    "url": "https://c.mjh.nz/abc-act.m3u8"
+  },
+  {
+    "id": "au-abc-tv-nt",
+    "name": "ABC TV NT",
+    "category": "General",
+    "country": "AU",
+    "url": "https://c.mjh.nz/abc-nt.m3u8"
+  },
+  {
+    "id": "au-abc-tv-qld",
+    "name": "ABC TV QLD",
+    "category": "General",
+    "country": "AU",
+    "url": "https://c.mjh.nz/abc-qld.m3u8"
+  },
+  {
+    "id": "au-abc-tv-sa",
+    "name": "ABC TV SA",
+    "category": "General",
+    "country": "AU",
+    "url": "https://c.mjh.nz/abc-sa.m3u8"
+  },
+  {
+    "id": "au-abc-tv-tas",
+    "name": "ABC TV TAS",
+    "category": "General",
+    "country": "AU",
+    "url": "https://c.mjh.nz/abc-tas.m3u8"
+  },
+  {
+    "id": "au-abc-tv-vic",
+    "name": "ABC TV VIC",
+    "category": "General",
+    "country": "AU",
+    "url": "https://c.mjh.nz/abc-vic.m3u8"
+  },
+  {
+    "id": "au-abc-tv-wa",
+    "name": "ABC TV WA",
+    "category": "General",
+    "country": "AU",
+    "url": "https://c.mjh.nz/abc-wa.m3u8"
+  },
+  {
+    "id": "au-abc-tv-plus",
+    "name": "ABC TV Plus",
+    "category": "Entertainment",
+    "country": "AU",
+    "url": "https://c.mjh.nz/abc-tv-plus.m3u8"
+  },
+  {
+    "id": "au-adventure-earth",
+    "name": "Adventure Earth",
+    "category": "Documentary",
+    "country": "AU",
+    "url": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8"
+  },
+  {
+    "id": "au-angel-tv-australia",
+    "name": "Angel TV Australia",
+    "category": "Religious",
+    "country": "AU",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8"
+  },
+  {
+    "id": "au-ausbiz-tv",
+    "name": "Ausbiz TV",
+    "category": "Business",
+    "country": "AU",
+    "url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8"
+  },
+  {
+    "id": "au-autentic-history",
+    "name": "Autentic History",
+    "category": "Documentary",
+    "country": "AU",
+    "url": "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8"
+  },
+  {
+    "id": "au-autentic-travel",
+    "name": "Autentic Travel",
+    "category": "Lifestyle",
+    "country": "AU",
+    "url": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8"
+  },
+  {
+    "id": "au-bloomberg-tv-australia-270p",
+    "name": "Bloomberg TV Australia (270p)",
+    "category": "Business",
+    "country": "AU",
+    "url": "https://bloomberg.com/media-manifest/streams/aus.m3u8"
+  },
+  {
+    "id": "au-c31-melbourne-240p",
+    "name": "C31 Melbourne (240p)",
+    "category": "General",
+    "country": "AU",
+    "url": "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8"
+  },
+  {
+    "id": "au-channel-9-australia",
+    "name": "Channel 9 (Australia)",
+    "category": "General",
+    "country": "AU",
+    "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8"
+  },
+  {
+    "id": "au-channel-9-australia-adelaide",
+    "name": "Channel 9 (Australia) Adelaide",
+    "category": "General",
+    "country": "AU",
+    "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8"
+  },
+  {
+    "id": "au-channel-9-australia-brisbane",
+    "name": "Channel 9 (Australia) Brisbane",
+    "category": "General",
+    "country": "AU",
+    "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8"
+  },
+  {
+    "id": "au-channel-9-australia-perth",
+    "name": "Channel 9 (Australia) Perth",
+    "category": "General",
+    "country": "AU",
+    "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8"
+  },
+  {
+    "id": "au-channel-44",
+    "name": "Channel 44",
+    "category": "General",
+    "country": "AU",
+    "url": "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8"
+  },
+  {
+    "id": "au-cricket-gold",
+    "name": "Cricket Gold",
+    "category": "Sports",
+    "country": "AU",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
+  },
+  {
+    "id": "au-ctb-perth",
+    "name": "CTB Perth",
+    "category": "General",
+    "country": "AU",
+    "url": "https://live.ctbperth.net.au/hls/0/stream.m3u8"
+  },
+  {
+    "id": "au-ctb-perth-movies-channel",
+    "name": "CTB Perth Movies Channel",
+    "category": "Movies",
+    "country": "AU",
+    "url": "https://movies.ctbperth.net.au/hls/stream.m3u8"
+  },
+  {
+    "id": "au-duna-world",
+    "name": "Duna World",
+    "category": "General",
+    "country": "AU",
+    "url": "http://88.212.15.17/live/duna_world_hun/index.m3u8"
+  },
+  {
+    "id": "au-euronews-french",
+    "name": "Euronews French",
+    "category": "News",
+    "country": "AU",
+    "url": "https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8"
+  },
+  {
+    "id": "au-expo-channel",
+    "name": "Expo Channel",
+    "category": "Shop",
+    "country": "AU",
+    "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8"
+  },
+  {
+    "id": "au-folk-klub-tv",
+    "name": "Folk Klub TV",
+    "category": "Music",
+    "country": "AU",
+    "url": "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8"
+  },
+  {
+    "id": "au-fox-sports-news",
+    "name": "Fox Sports News",
+    "category": "News;Sports",
+    "country": "AU",
+    "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8"
+  },
+  {
+    "id": "au-hope-channel-australia",
+    "name": "Hope Channel Australia",
+    "category": "Religious",
+    "country": "AU",
+    "url": "https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8"
+  },
+  {
+    "id": "ae-ajman-tv",
+    "name": "Ajman TV",
+    "category": "General",
+    "country": "AE",
+    "url": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
+  },
+  {
+    "id": "ae-al-mashhad",
+    "name": "Al Mashhad",
+    "category": "News",
+    "country": "AE",
+    "url": "https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8?ads.appversion=[APP_VERSION]&ads.devicemodel=[DEVICE_MODEL]&ads.lat=[LMT]&ads.bundleid=[APP_BUNDLE]&ads.donotsell=[DNS]&ads.ifa=[IFA]&ads.targetad=[TARGETAD_ALLOWED]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.appname=[APP_NAME]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.givn=[NONCE]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&ads.coppa=0&ads.ic=[IC]&ads.network_name=[networkname]"
+  },
+  {
+    "id": "ae-al-shallal-tv",
+    "name": "Al Shallal TV",
+    "category": "General",
+    "country": "AE",
+    "url": "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "ae-al-sharqiya-min-kabla",
+    "name": "Al Sharqiya Min Kabla",
+    "category": "General",
+    "country": "AE",
+    "url": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8"
+  },
+  {
+    "id": "ae-al-wousta-tv",
+    "name": "Al Wousta TV",
+    "category": "General",
+    "country": "AE",
+    "url": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8"
+  },
+  {
+    "id": "ae-al-yaum-tv",
+    "name": "Al Yaum TV",
+    "category": "News",
+    "country": "AE",
+    "url": "https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8"
+  },
+  {
+    "id": "ae-cnbc-arabiya",
+    "name": "CNBC Arabiya",
+    "category": "Business",
+    "country": "AE",
+    "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8"
+  },
+  {
+    "id": "ae-cnn-news-18",
+    "name": "CNN News 18",
+    "category": "News",
+    "country": "AE",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8"
+  },
+  {
+    "id": "ae-dubai-tv-international",
+    "name": "Dubai TV International",
+    "category": "General",
+    "country": "AE",
+    "url": "http://185.9.2.18/chid_139/index.m3u8"
+  },
+  {
+    "id": "ae-fujairah-tv",
+    "name": "Fujairah TV",
+    "category": "Entertainment",
+    "country": "AE",
+    "url": "https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8"
+  },
+  {
+    "id": "ae-mbc-persia",
+    "name": "MBC Persia",
+    "category": "Entertainment",
+    "country": "AE",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8"
+  },
+  {
+    "id": "ae-nour-tv",
+    "name": "Nour TV",
+    "category": "Religious",
+    "country": "AE",
+    "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8"
+  },
+  {
+    "id": "ae-osn-movies-action",
+    "name": "OSN Movies Action",
+    "category": "Movies",
+    "country": "AE",
+    "url": "http://116.90.120.151:8000/play/a0ax/index.m3u8"
+  },
+  {
+    "id": "ae-peace-tv-chinese",
+    "name": "Peace TV Chinese",
+    "category": "Religious",
+    "country": "AE",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8"
+  },
+  {
+    "id": "ae-pulse95-radio",
+    "name": "Pulse95 Radio",
+    "category": "Undefined",
+    "country": "AE",
+    "url": "https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8"
+  },
+  {
+    "id": "ae-sharjah-2",
+    "name": "Sharjah 2",
+    "category": "Religious",
+    "country": "AE",
+    "url": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8"
+  },
+  {
+    "id": "ae-sharjah-radio",
+    "name": "Sharjah Radio",
+    "category": "General",
+    "country": "AE",
+    "url": "https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8"
+  },
+  {
+    "id": "ae-sharjah-radio-quran",
+    "name": "Sharjah Radio Quran",
+    "category": "Religious",
+    "country": "AE",
+    "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8"
+  },
+  {
+    "id": "ae-sharjah-sports",
+    "name": "Sharjah Sports",
+    "category": "Sports",
+    "country": "AE",
+    "url": "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8"
+  },
+  {
+    "id": "ae-sharjah-tv",
+    "name": "Sharjah TV",
+    "category": "Religious",
+    "country": "AE",
+    "url": "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8"
+  },
+  {
+    "id": "ae-watar-radio",
+    "name": "Watar Radio",
+    "category": "Undefined",
+    "country": "AE",
+    "url": "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8"
+  },
+  {
+    "id": "kr-abn",
+    "name": "ABN",
+    "category": "General",
+    "country": "KR",
+    "url": "https://vod2.abn.co.kr/IPHONE/abn.m3u8"
+  },
+  {
+    "id": "kr-arirang-radio",
+    "name": "Arirang Radio",
+    "category": "General",
+    "country": "KR",
+    "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
+  },
+  {
+    "id": "kr-arirang-tv",
+    "name": "Arirang TV",
+    "category": "General;News",
+    "country": "KR",
+    "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+  },
+  {
+    "id": "kr-arirang-tv-hd",
+    "name": "Arirang TV HD",
+    "category": "General;News",
+    "country": "KR",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=111"
+  },
+  {
+    "id": "kr-bbs-tv-south-korea",
+    "name": "BBS TV (South Korea)",
+    "category": "Religious",
+    "country": "KR",
+    "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8"
+  },
+  {
+    "id": "kr-btn-tv-south-korea",
+    "name": "BTN TV (South Korea)",
+    "category": "Religious",
+    "country": "KR",
+    "url": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8"
+  },
+  {
+    "id": "kr-channel-a",
+    "name": "Channel A",
+    "category": "General",
+    "country": "KR",
+    "url": "http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8"
+  },
+  {
+    "id": "kr-cj-onstyle-540p",
+    "name": "CJ OnStyle (540p)",
+    "category": "Shop",
+    "country": "KR",
+    "url": "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8"
+  },
+  {
+    "id": "kr-cj-onstyle-540p",
+    "name": "CJ OnStyle+ (540p)",
+    "category": "Shop",
+    "country": "KR",
+    "url": "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8"
+  },
+  {
+    "id": "kr-ebs-1tv-400p",
+    "name": "EBS 1TV (400p)",
+    "category": "Education",
+    "country": "KR",
+    "url": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8"
+  },
+  {
+    "id": "kr-ebs-2tv-400p",
+    "name": "EBS 2TV (400p)",
+    "category": "Education",
+    "country": "KR",
+    "url": "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8"
+  },
+  {
+    "id": "kr-ebs-english-400p",
+    "name": "EBS English (400p)",
+    "category": "Education",
+    "country": "KR",
+    "url": "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
+  },
+  {
+    "id": "kr-ebs-kids-400p",
+    "name": "EBS Kids (400p)",
+    "category": "Kids",
+    "country": "KR",
+    "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8"
+  },
+  {
+    "id": "kr-ebs-plus-1-400p",
+    "name": "EBS Plus 1 (400p)",
+    "category": "Education",
+    "country": "KR",
+    "url": "https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8"
+  },
+  {
+    "id": "kr-ebs-plus-2-400p",
+    "name": "EBS Plus 2 (400p)",
+    "category": "Education",
+    "country": "KR",
+    "url": "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8"
+  },
+  {
+    "id": "kr-fgtv-south-korea",
+    "name": "FGTV (South Korea)",
+    "category": "Religious",
+    "country": "KR",
+    "url": "https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8"
+  },
+  {
+    "id": "kr-gcn",
+    "name": "GCN",
+    "category": "Religious",
+    "country": "KR",
+    "url": "http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8"
+  },
+  {
+    "id": "kr-gongyoung-home-shopping",
+    "name": "Gongyoung Home Shopping",
+    "category": "Shop",
+    "country": "KR",
+    "url": "https://etv.publichs.com/live5.stream/playlist.m3u8"
+  },
+  {
+    "id": "kr-good-tv-south-korea",
+    "name": "Good TV (South Korea)",
+    "category": "Religious",
+    "country": "KR",
+    "url": "http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8"
+  },
+  {
+    "id": "kr-gs-my-shop",
+    "name": "GS My Shop",
+    "category": "Shop",
+    "country": "KR",
+    "url": "https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8"
+  },
+  {
+    "id": "kr-gs-shop",
+    "name": "GS Shop",
+    "category": "Shop",
+    "country": "KR",
+    "url": "https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8"
+  },
+  {
+    "id": "kr-gugak-tv",
+    "name": "Gugak TV",
+    "category": "Music",
+    "country": "KR",
+    "url": "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8"
+  },
+  {
+    "id": "kr-gugbang-tv",
+    "name": "Gugbang TV",
+    "category": "News",
+    "country": "KR",
+    "url": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8"
+  },
+  {
+    "id": "kr-hlaj-dtv-352p",
+    "name": "HLAJ-DTV (352p)",
+    "category": "General",
+    "country": "KR",
+    "url": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
+  },
+  {
+    "id": "kr-hlam-dtv",
+    "name": "HLAM-DTV",
+    "category": "General",
+    "country": "KR",
+    "url": "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8"
+  },
+  {
+    "id": "kr-hlan-dtv",
+    "name": "HLAN-DTV",
+    "category": "General",
+    "country": "KR",
+    "url": "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8"
+  },
+  {
+    "id": "kr-hlao-dtv",
+    "name": "HLAO-DTV",
+    "category": "General",
+    "country": "KR",
+    "url": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8"
+  },
+  {
+    "id": "kr-hlaq-dtv",
+    "name": "HLAQ-DTV",
+    "category": "General",
+    "country": "KR",
+    "url": "http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8"
+  },
+  {
+    "id": "kr-hlat-dtv",
+    "name": "HLAT-DTV",
+    "category": "General",
+    "country": "KR",
+    "url": "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8"
+  },
+  {
+    "id": "kr-hlaw-dtv",
+    "name": "HLAW-DTV",
+    "category": "General",
+    "country": "KR",
+    "url": "http://andong.webcasting.co.kr/live/mbc/playlist.m3u8"
+  },
+  {
+    "id": "kr-hlcg-dtv",
+    "name": "HLCG-DTV",
+    "category": "General",
+    "country": "KR",
+    "url": "http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8"
+  },
+  {
+    "id": "kr-hlcn-dtv",
+    "name": "HLCN-DTV",
+    "category": "General",
+    "country": "KR",
+    "url": "https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8"
+  },
+  {
+    "id": "kr-hlcq-dtv",
+    "name": "HLCQ-DTV",
+    "category": "General",
+    "country": "KR",
+    "url": "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
+  },
+  {
+    "id": "kr-hlct-dtv",
+    "name": "HLCT-DTV",
+    "category": "General",
+    "country": "KR",
+    "url": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
+  },
+  {
+    "id": "kr-hlcx-dtv-450p",
+    "name": "HLCX-DTV (450p)",
+    "category": "General",
+    "country": "KR",
+    "url": "https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8"
+  },
+  {
+    "id": "kr-hlde-dtv-540p",
+    "name": "HLDE-DTV (540p)",
+    "category": "General",
+    "country": "KR",
+    "url": "http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8"
+  },
+  {
+    "id": "kr-hldg-dtv",
+    "name": "HLDG-DTV",
+    "category": "General",
+    "country": "KR",
+    "url": "https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8"
+  },
+  {
+    "id": "kr-hldh-dtv",
+    "name": "HLDH-DTV",
+    "category": "General",
+    "country": "KR",
+    "url": "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8"
+  },
+  {
+    "id": "kr-hldp-dtv-540p",
+    "name": "HLDP-DTV (540p)",
+    "category": "General",
+    "country": "KR",
+    "url": "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8"
+  },
+  {
+    "id": "kr-hldq-dtv-406p",
+    "name": "HLDQ-DTV (406p)",
+    "category": "General",
+    "country": "KR",
+    "url": "http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8"
+  }
+]

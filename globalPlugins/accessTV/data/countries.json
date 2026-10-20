@@ -1,0 +1,66 @@
+[
+  {
+    "code": "ID",
+    "name": "Indonesia"
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia"
+  },
+  {
+    "code": "SG",
+    "name": "Singapura"
+  },
+  {
+    "code": "SA",
+    "name": "Arab Saudi"
+  },
+  {
+    "code": "PS",
+    "name": "Palestina"
+  },
+  {
+    "code": "EG",
+    "name": "Mesir"
+  },
+  {
+    "code": "TR",
+    "name": "Turki"
+  },
+  {
+    "code": "UK",
+    "name": "Inggris (UK)"
+  },
+  {
+    "code": "US",
+    "name": "Amerika Serikat (US)"
+  },
+  {
+    "code": "JP",
+    "name": "Jepang"
+  },
+  {
+    "code": "DE",
+    "name": "Jerman"
+  },
+  {
+    "code": "FR",
+    "name": "Prancis"
+  },
+  {
+    "code": "AU",
+    "name": "Australia"
+  },
+  {
+    "code": "AE",
+    "name": "Uni Emirat Arab"
+  },
+  {
+    "code": "KR",
+    "name": "Korea Selatan"
+  },
+  {
+    "code": "ALL",
+    "name": "Semua Negara / Internasional"
+  }
+]

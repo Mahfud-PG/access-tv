@@ -92,6 +92,7 @@ except ImportError:
     wx = _DummyWX()
 from .channel_manager import ChannelManager
 from .player_engine import PlayerEngine
+from .updater import UpdateManager
 
 try:
     import ui
@@ -213,6 +214,9 @@ class AccessTVDialog(wx.Dialog):
         self._update_channel_list()
         self._update_button_states()
 
+        # Periksa pembaruan otomatis di latar belakang
+        UpdateManager.get_instance().check_for_updates(silent=True)
+
         self.Bind(wx.EVT_CLOSE, self.on_close)
         self.Bind(wx.EVT_CHAR_HOOK, self.on_char_hook)
 
@@ -302,10 +306,20 @@ class AccessTVDialog(wx.Dialog):
 
         main_sizer.Add(vol_box, 0, wx.EXPAND | wx.LEFT | wx.RIGHT | wx.BOTTOM, 8)
 
-        # 8. Tombol Tutup Dialog
+        # 8. Bilah Tombol Bawah (Periksa Pembaruan & Tutup Dialog)
+        bottom_sizer = wx.BoxSizer(wx.HORIZONTAL)
+
+        self.btn_check_update = wx.Button(self, label="Periksa Pembaruan...")
+        self.btn_check_update.Bind(wx.EVT_BUTTON, self.on_check_update)
+        bottom_sizer.Add(self.btn_check_update, 0, wx.ALIGN_CENTER_VERTICAL | wx.RIGHT, 8)
+
+        bottom_sizer.AddStretchSpacer(1)
+
         self.btn_close = wx.Button(self, wx.ID_CANCEL, label="Tutup")
         self.btn_close.Bind(wx.EVT_BUTTON, self.on_close)
-        main_sizer.Add(self.btn_close, 0, wx.ALIGN_RIGHT | wx.ALL, 6)
+        bottom_sizer.Add(self.btn_close, 0, wx.ALIGN_CENTER_VERTICAL)
+
+        main_sizer.Add(bottom_sizer, 0, wx.EXPAND | wx.ALL, 6)
 
         self.SetSizer(main_sizer)
 
@@ -501,6 +515,9 @@ class AccessTVDialog(wx.Dialog):
         self.channel_mgr.custom.remove_channel(ch.get('id'))
         ui.message(f"Saluran kustom {name} berhasil dihapus.")
         self._update_channel_list()
+
+    def on_check_update(self, event):
+        UpdateManager.get_instance().check_for_updates(silent=False)
 
     def on_slider_volume(self, event):
         val = self.slider_volume.GetValue()
